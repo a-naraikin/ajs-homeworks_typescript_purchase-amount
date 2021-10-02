@@ -1,7 +1,6 @@
 {
-  "name": "ajs-homeworks_typescript_new-types",
+  "name": "ajs-homeworks_typescript_purchase-amount",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/574jyj8jjqfyadyd?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homeworks-typescript-new-types)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
@@ -48,10 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-naraikin/ajs-homeworks_typescript_new-types.git"
+    "url": "git+https://github.com/a-naraikin/ajs-homeworks_typescript_purchase-amount.git"
   },
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/8fbnms4286fo013u?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homeworks-typescript-purchase-amount)",
   "bugs": {
-    "url": "https://github.com/a-naraikin/ajs-homeworks_typescript_new-types/issues"
+    "url": "https://github.com/a-naraikin/ajs-homeworks_typescript_purchase-amount/issues"
   },
-  "homepage": "https://github.com/a-naraikin/ajs-homeworks_typescript_new-types#readme"
+  "homepage": "https://github.com/a-naraikin/ajs-homeworks_typescript_purchase-amount#readme"
 }
