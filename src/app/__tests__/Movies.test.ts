@@ -1,13 +1,13 @@
 import Movie from '../domain/Movie';
 
 test('should add a movie', () => {
-  const movie = new Movie(1001, 'Мстители', 250, 2012, 'США', 'слоган', ['фантастика', 'боевик', 'фэнтези', 'приключения'], 137);
+  const movie = new Movie(1001, 'Мстители', 250, 2012, 'США', 'Avengers Assemble!', ['фантастика', 'боевик', 'фэнтези', 'приключения'], 137);
   const expected  = {
     id: 1001,
     price: 250,
     country: "США",
     name: "Мстители",
-    slogan: "слоган",
+    slogan: "Avengers Assemble!",
     year: 2012,
     genre: ['фантастика', 'боевик', 'фэнтези', 'приключения'],
     time: 137,
